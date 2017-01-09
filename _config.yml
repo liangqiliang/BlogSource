@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 卖女孩的小男孩
+title: 卖姑娘的小火柴
 subtitle: 我还没想好，你就进来了
 description:
-author: 卖女孩的小男孩
-language: zn-CH
+author: 卖姑娘的小火柴
+language: zh-CN
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,22 +71,3 @@ deploy:
   type: git
   repo: git@github.com:liangqiliang/liangqiliang.github.io.git
   branch: master
-
-jsonContent:
-  meta: false
-  pages: false
-  posts:
-    title: true
-    date: true
-    path: true
-    text: true
-    raw: false
-    content: false
-    slug: false
-    updated: false
-    comments: false
-    link: false
-    permalink: false
-    excerpt: false
-    categories: false
-    tags: true

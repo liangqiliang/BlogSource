@@ -1,5 +1,5 @@
 ---
-title: Spring学习笔记-基于注解多数据源切换及配置问题
+title: Spring一知半解-基于注解多数据源切换及配置问题
 date: 2017-01-04 15:39:53
 categories: [Spring,Java]
 tags: [Spring,数据库,数据源,xml,AOP]

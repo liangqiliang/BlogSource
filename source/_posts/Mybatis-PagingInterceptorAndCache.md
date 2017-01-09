@@ -1,5 +1,5 @@
 ---
-title: Mybatis-分页拦截器及相关的缓存机制
+title: Mybatis相爱相杀-分页拦截器及相关的缓存机制
 date: 2017-01-03 11:48:53
 categories: [Mybatis,Java]
 tags: [Mybatis,分页,拦截器,缓存]

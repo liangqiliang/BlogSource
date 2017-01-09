@@ -1,5 +1,5 @@
 ---
-title: Spring学习笔记-Xml配置
+title: Spring一知半解-Xml配置
 date: 2016-12-30 14:36:53
 categories: [Spring,Java]
 tags: [Spring,bean,Schema,xml]
